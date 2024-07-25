@@ -18,5 +18,11 @@
         "content": "Okay, here's an example HTML code for a submit button:\n\n```html\n<input type=\"submit\" value=\"Submit\">\n```\n\nYou can customize the button styling using CSS.",
         "timestamp": "25072024070538",
         "message_id": "guest25072024070537"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "25072024070708",
+        "message_id": "guest25072024070708"
     }
 ]
